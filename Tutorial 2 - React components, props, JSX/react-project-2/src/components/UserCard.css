@@ -1,0 +1,21 @@
+.user-container {
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 2px 2px 12px black;
+}
+
+.user-name {
+    font-size: 20px;
+}
+
+.user-img img {
+    width: 100px;
+    border-radius: 50%;
+}
