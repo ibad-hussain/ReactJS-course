@@ -1,0 +1,17 @@
+.card-container {
+    width: 600px;
+    height: 100px;
+    background-color: rgb(27, 183, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-top: 15px;
+}
