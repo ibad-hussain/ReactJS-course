@@ -1,0 +1,8 @@
+.input-error {
+    outline: none;
+    border: 3px solid red;
+}
+
+.error-msg {
+    color: red;
+}
