@@ -1,0 +1,46 @@
+.container {
+  width: 400px;
+  height: 250px;
+  background-color: rgb(255, 255, 135);
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.one button, .two button, .three button, .four button {
+  padding: 1px 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(255, 153, 80);
+  cursor: pointer;
+}
+
+.four input {
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(255, 182, 129);
+  width: 50px;
+  margin-left: 10px;
+}
